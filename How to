@@ -1,0 +1,14 @@
+# to run the web server do:
+export FLASK_APP=app.py
+flask run --host 0.0.0.0 --port 5000
+
+# to stop the web server use CTRL+C
+
+# Prototype.py it's command line proof of concept
+# to run it do:
+python Prototype.py
+# or:
+python3 Prototype.py
+
+# to decompress de files:
+tar xvf RaspiAccessControl.t    
