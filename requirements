@@ -1,0 +1,5 @@
+pywiegand
+RPi.GPIO
+flask
+flask_socketio
+requests
