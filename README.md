@@ -9,4 +9,5 @@ pywiegand
 RPi.GPIO
 flask
 flask_socketio
-requests
+requests   
+![OpenDoors](https://github.com/silversseraph/OpenDoors/assets/42315896/7cabc6de-026a-4767-9f1b-34ed96e2c108)
